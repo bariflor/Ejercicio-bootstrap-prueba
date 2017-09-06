@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Pacifico|Sedgwick+Ave+Display');
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+header{
+	position: relative;
+	padding-top: 84px;
+	padding-bottom: 80px; 
+}
+
+header nav{
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	height: 70px;
+	background-color: #fff;
+}
+
+header nav ul{
+	line-height: 70px;
+	text-align: right;
+	padding-right: 80px;
+}
+
+nav ul a{
+	text-transform: uppercase;
+	color:#000;
+}
+
+header .action img{
+	width: 80px;
+	margin: 15px 0px;
+}
+header .action h1{
+	text-size: 2em;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.action .btn{
+	margin-top: 15px;
+	text-transform: uppercase;;
+}
