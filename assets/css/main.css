@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat|Pacifico|Sedgwick+Ave+Display');
 body{
 	font-family: 'Montserrat', sans-serif;
-	outline: 1px solid red;
+	/*outline: 1px solid red;*/
 }
 header{
 	position: relative;
