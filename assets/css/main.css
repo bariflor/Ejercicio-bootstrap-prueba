@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat|Pacifico|Sedgwick+Ave+Display');
 body{
 	font-family: 'Montserrat', sans-serif;
+	outline: 1px solid red;
 }
 header{
 	position: relative;
@@ -40,5 +41,25 @@ header .action h1{
 
 .action .btn{
 	margin-top: 15px;
-	text-transform: uppercase;;
+	text-transform: uppercase;
 }
+/*================================
+=            SERVICIO            =
+================================*/
+.servicio{
+	padding: 0px 30px;
+}
+
+.servicio h3{
+	text-transform: uppercase;
+	font-size: 1.2em;
+	letter-spacing: 2px;
+}
+
+.servicio i{
+	font-size: 6em;
+	margin-bottom: 15px;
+}
+
+
+/*=====  End of SERVICIO  ======*/
